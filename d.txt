@@ -1,0 +1,21 @@
+Header & navigation
+
+Hero section
+
+Products section
+
+Customer reviews with static star ratings
+
+About section
+
+Contact form
+
+Footer
+
+Back-to-top button
+
+Scroll animations
+
+Responsive design
+
+SEO-friendly structure
